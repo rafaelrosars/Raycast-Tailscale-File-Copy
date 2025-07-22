@@ -10,7 +10,7 @@
 
 # Documentation:
 # @raycast.author rafaelrosars
-# @raycast.authorURL https://raycast.com/rafaelrosars
+# @raycast.authorURL https://github.com/rafaelrosars
 
 # Capture ALL selected paths in Finder
 FILES=$(osascript <<EOD
